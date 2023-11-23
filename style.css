@@ -1,0 +1,146 @@
+*
+{
+    font-family: 'Signika', sans-serif;
+    margin:0;
+    padding: 0%;
+    width:100%;
+}
+body{
+    background:linear-gradient(to right,rgb(0, 0, 0),purple,rgba(0, 0, 0, 0.973));
+}
+    nav{
+    margin-left: 10px;
+    color: azure;
+    padding:10px;
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    width:30%;
+}
+a{
+    text-decoration: none;
+   color: aliceblue;
+}
+button
+{   background-color: coral;
+    font-weight: 900;
+    font-size: large;
+    color: aliceblue;
+    width:10%;
+}
+.mainbox{
+
+    display: inline-flex;
+    color: aliceblue;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+
+}
+
+.box1{
+    font-size: larger;
+    font-weight: 900;
+    padding: 90px 10px 10px 40px;
+    width:70%;
+}
+.box1 button{
+    width:30%;
+    margin:4%;
+    padding: 1%;
+    height: 1.2cm;
+}
+.p1,.h11,.b1{
+    padding:4%;
+   
+}
+.box2{
+    filter: drop-shadow(10px 30px 10px rgb(0, 0, 57));
+    width:60%;
+}
+
+nav h1{
+    width:15%;
+} 
+header{
+    background:linear-gradient(to right,rgb(0, 0, 0),rgba(212, 0, 255, 0.558),rgba(0, 0, 0, 0.973)) ,url('nature.jpg');
+    background-size: cover;
+    margin-top: 0%;
+}
+.himg{
+    width:100%;
+    height: 100%;
+}
+.div2{
+    color: aliceblue;
+    width: 100%;
+    padding-top: 10%;
+     padding-bottom: 10%;
+ display: flex;
+ background:linear-gradient(to right,rgb(0, 0, 0),rgba(212, 0, 255, 0.833),rgba(0, 0, 0, 0.973));
+}
+.div3{
+    padding-bottom:100px;
+    padding-top:100px;
+ color:aliceblue;
+ background:linear-gradient(to right,rgb(0, 0, 0),rgba(195, 0, 255, 0.833),rgba(0, 0, 0, 0.973));
+}
+.div21,.div22{
+    width:50%;
+}
+.square{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    padding-right: 0px;
+    border-radius: 50px 0% 0% 50px;
+    width: 100%;
+    background-color: rgb(255, 119, 0);
+}
+.grid1,.grid2{
+    width:100%;
+    margin: 2px;
+   
+
+}
+
+.cards{
+   padding-bottom:100px;
+   padding-top:100px;
+   margin: 10px 10px 0px 10px;
+   width:95%;
+    display: flex;
+}
+.card1,.card6{
+    background-color: rgba(0, 0, 0, 0.593);
+    margin: 2px;
+   
+}
+
+.card2,.card3,.card4,.card5{
+    background-color: rgba(0, 0, 0, 0.578);
+}
+.card2,.card4,.card22,.card24{
+    margin-bottom:5px;
+}
+
+
+.card22,.card23,.card24,.card25,.card26,.card21
+{
+   
+}
+.div4{
+    width:80%;
+    background-color: rgb(255, 255, 8);
+    border-radius: 0% 355% 355% 0%;
+    padding: 1%;rgb(255, 255, 22)
+}
+.cards2{
+    padding-bottom:1px;
+    padding-top:1px;
+    margin: 0px 0px 0px 10px;
+    width:100%;
+     display: flex;
+ }

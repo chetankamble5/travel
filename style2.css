@@ -1,0 +1,43 @@
+.div51{
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: aliceblue;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.div5{
+    text-align: justify;
+    margin-bottom: 100px;
+}
+input{
+    width: 30%;
+    font-weight: 900;
+    height:.8cm;
+    color: rgb(0, 0, 0);
+    margin-left: 35%;
+    margin-top: 5%;
+    background-color: rgb(255, 255, 255);
+    border-style: solid ;
+    border:5px;
+    border-color: rgb(0, 0, 0) ;
+    border-style: solid ;
+    border-radius: 20px;
+}
+.footer1,.footer2 {
+    color:white;
+    margin-top:50px;
+    margin-bottom:30px;
+  
+   
+}
+.footer2 {
+    width:50%;
+    color:black;
+    background-color: rgb(0, 0, 0);
+  
+}
+
+
+
